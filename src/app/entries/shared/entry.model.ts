@@ -1,7 +1,7 @@
 export class Entry{
     title: string;
     photo: string;
-    description:string;
+    description: string;
     comments: any[];
 
 }
